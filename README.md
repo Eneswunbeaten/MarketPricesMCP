@@ -203,7 +203,7 @@ Cursor da MCP protokolünü desteklemektedir. Entegrasyon için şu adımları i
 6. Cursor'daki sunucu göstergesinin yeşil olduğunu doğrulayın (başarılı bağlantı anlamına gelir)
 
 **Cursor Entegrasyonu Sorun Giderme:**
-- "araç bulunamadı" hatası alırsanız, Node.js'nin kurulu olduğundan emin olun (npm içerir)
+- "araç bulunamadı" hatası alırsanız, .Net'in kurulu olduğundan emin olun.
 - MCP sunucusunun doğru çalıştığını kontrol edin
 - Proje dosya yolunun doğru olduğundan emin olun
 
